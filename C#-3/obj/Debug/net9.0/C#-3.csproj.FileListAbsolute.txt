@@ -1,0 +1,15 @@
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\bin\Debug\net9.0\C#-3.exe
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\bin\Debug\net9.0\C#-3.deps.json
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\bin\Debug\net9.0\C#-3.runtimeconfig.json
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\bin\Debug\net9.0\C#-3.dll
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\bin\Debug\net9.0\C#-3.pdb
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.AssemblyInfo.cs
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.sourcelink.json
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.dll
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\refint\C#-3.dll
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.pdb
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\C#-3.genruntimeconfig.cache
+C:\Users\-\Desktop\HW 8.01.2025\C#-3\obj\Debug\net9.0\ref\C#-3.dll
