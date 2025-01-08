@@ -4,7 +4,7 @@ class Program
     static void Main()
     {
         Console.Write("Enter your deposit emount: ");
-        int deposit = int.Parse(Console.ReadLine());
+        int deposit = Convert.ToInt32(Console.ReadLine());
         int percente;
 
         if (deposit <100){
