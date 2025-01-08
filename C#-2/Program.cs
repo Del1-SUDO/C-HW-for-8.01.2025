@@ -3,10 +3,14 @@ class Program
 {
     static void Main()
     {
-        int[] arr = new int[] {1,2,3,4,5};
-        foreach (int number in arr)
-        {
-            Console.WriteLine(number);
+        Console.Write("Enter all of your numbers in a row: ");
+        int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+
+        int sum = 1;
+        foreach(int num in arr){
+            sum *= num;
         }
+
+        Console.WriteLine(string.Join("*", arr) + "=" + sum);
     }
 }
