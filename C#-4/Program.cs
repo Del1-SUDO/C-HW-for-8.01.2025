@@ -17,6 +17,7 @@ class Program
                 }
                 if (cnt>=2){
                     Console.WriteLine(num + " ");
+                    break;
                 }
             }
         }
